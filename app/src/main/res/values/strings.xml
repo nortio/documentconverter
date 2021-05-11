@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Document Converter</string>
+    <string name="savebutton">Save</string>
+    <string name="previewbutton">Preview</string>
+</resources>
